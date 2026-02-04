@@ -32,3 +32,9 @@ cre workflow simulate kala-workflow --target staging-settings --broadcast
 - Targets are defined in `project.yaml`.
 - Environment variables are managed in `.env`.
 - Secrets are defined in `secrets.yaml`.
+
+## Deployed Contracts (Sepolia)
+
+- **Kala Oracle:** [`0x4FC13201489580c3F9Ac38c4916197BFf4c5c34c`](https://sepolia.etherscan.io/address/0x4FC13201489580c3F9Ac38c4916197BFf4c5c34c)
+- **Kala Consumer:** [`0xEb33A8FF1C2561EC48a62367a2C6379Ce75dEf2d`](https://sepolia.etherscan.io/address/0xEb33A8FF1C2561EC48a62367a2C6379Ce75dEf2d)
+
