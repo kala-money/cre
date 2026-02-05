@@ -1,6 +1,6 @@
 # KALA CRE
 
-Internal repository for KALA protocol oracles and workflows powered by Chainlink Runtime Environment (CRE).
+Internal repository for KALA protocol oracles and workflows powered by Chainlink Runtime Environment (CRE). Learn about cre here https://docs.chain.link/cre
 
 ## Setup
 
